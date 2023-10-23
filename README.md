@@ -41,6 +41,7 @@ Java,SpringBoot,MySQL,Redis,Minio,RabbitMq,Docker,MyBatis,
 #### 委办局业务系统
 
 针对委办局具体需求，对接数据服务平台，从DM数据超市获取数据，建立ADS层应用数据，并基于应用数据开发业务系统，实现跨局的业务数据应用、分析以及展示。主要负责了后端服务的搭建和功能开发。
+<div style="break-after: page; page-break-after: always;" ></div>
 
 #### 疫情大屏开发
 
