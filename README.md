@@ -18,16 +18,20 @@
 -	熟练使用idea开发工具。
 
 
+   技术栈
+```
+- JAVA、spring MVC、spring cloud、spring boot、mybatis、Redis、kingbase、mysql、oracle、Docker、K8s/Openshift、GuassDB、MPP、hdfs、hbase、hive、spark、elasticsearch、minio.
+```
 ## 工作经历
 
 ### 2019.11至今 |广州市纳海川互联网科技有限公司 | 100-200人 | 后端开发工程师
 
 东莞市政府数据大脑一期项目包含“一湖四平台”(分布式数据湖、大数据基础支撑平台、数据汇聚平台、数据治理平台、数据服务平台)，致力于打造市数字政府数据基础底座。除了大数据基础支撑平台为采购华为的 FusionInsight(类似于开源的Ambari)外，其他为自主研发。
 项目在实施过程中，根据数据工作实际的需要，从中心化的[一湖四平台]架构演进成[分布式数据湖]架构。各委办局部署一个数据湖子湖，负责委办局数据生命周期(采存治管用)管理，市政府部署数据湖主湖，负责全市数据的全景分析和展示，以及用数权限的申请审批。 
-##### 技术栈
+<!-- ##### 技术栈
 ```
 Java,SpringBoot,MySQL,Redis,Minio,RabbitMq,Docker,MyBatis,
-``` 
+```  -->
 
 
 #### 数据汇聚
@@ -41,7 +45,6 @@ Java,SpringBoot,MySQL,Redis,Minio,RabbitMq,Docker,MyBatis,
 #### 委办局业务系统
 
 针对委办局具体需求，对接数据服务平台，从DM数据超市获取数据，建立ADS层应用数据，并基于应用数据开发业务系统，实现跨局的业务数据应用、分析以及展示。主要负责了后端服务的搭建和功能开发。
-<div style="break-after: page; page-break-after: always;" ></div>
 
 #### 疫情大屏开发
 
@@ -62,10 +65,10 @@ Java,SpringBoot,MySQL,Redis,Minio,RabbitMq,Docker,MyBatis,
 5. 随着系统运行，遇到长期的海量电网数据的查询问题，使用HBase对数据进行离线，Hive聚合查询。
 1. 配合架构组进行压力测试，调优高并发情况。调整JVM的GC策略，减缓服务高并发时的内存溢出问题。
 
-##### 技术栈
+<!-- ##### 技术栈
 ```
 Java,SpringBoot,SpringCloud,MySQL,Oracle,Python,Redis,Kafka
-``` 
+```  -->
 
 **​**
 
