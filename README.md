@@ -14,13 +14,13 @@
 -   理解AOP动态代理的原理，掌握面向切面的编程开发经验。
 -	对于SpringCloud中的多个组件也有企业级使用经验。例如：Nacos、OpenFeign、Gateway、Sentinel等组件。
 -	在生产中使用过kafka和RabbitMQ消息中间件，熟悉消息的顺序性，可靠性，幂等性以及它事务的实现原理。
--	熟练掌握英语，有一定的英文文档月得和翻译能力。
+-	熟练掌握英语，有一定的英文文档阅读和翻译能力。
 -	熟练使用idea开发工具。
 
 
    技术栈
 ```
-- JAVA、spring MVC、spring cloud、spring boot、mybatis、Redis、kingbase、mysql、oracle、Docker、K8s/Openshift、GuassDB、MPP、hdfs、hbase、hive、spark、elasticsearch、minio.
+- JAVA、spring MVC、spring cloud、spring boot、mybatis、Redis、kingbase、mysql、oracle、Docker、K8s/Openshift、GuassDB、MPP、hbase、hive、elasticsearch、minio.
 ```
 ## 工作经历
 
@@ -49,6 +49,7 @@ Java,SpringBoot,MySQL,Redis,Minio,RabbitMq,Docker,MyBatis,
 #### 疫情大屏开发
 
 2020年开始的新冠疫情，是一次数据汇聚、数据治理和数据应用的实践。疫情初期，数据汇聚工作异常艰巨，根据各个网格上报的表格数据，使用python等脚本语言提取数据、进行大量的数据清洗并完成导入工作，建立起疫情基础数据仓库。在后续系统开发中，抽象出各种指标，建立涵盖时间、地理位置、人群等多个维度的模型，形成疫情主题库。基于多维度的模型，进行对比、趋势和关联分析，输出结果到智慧大屏上，提供更有效的决策辅助。
+<div style="break-after: page; page-break-after: always;" ></div>
 
 ### 2018.3-2019.11 | 广州市汇电云联互联网科技有限公司 | 100-200人 | 后端开发工程师
 
