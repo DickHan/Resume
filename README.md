@@ -95,7 +95,7 @@
 
 技术栈
 - SSM、Oracle、Redis、JPA、Kafka、FTP
-
+<div style="break-after: page; page-break-after: always;" ></div>
 **​**
 
 #### 2017.3-2017.6 | 广州迅易科技有限公司 | 100-200人 | 数据开发实习生
