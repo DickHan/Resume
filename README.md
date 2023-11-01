@@ -65,7 +65,6 @@
 
 技术栈
 - Spring、Kingbase、Mysql、Redis、MyBatis、JPA、RabbitMq、Minio
-<div style="break-after: page; page-break-after: always;" ></div>
 
 #### 疫情大屏开发
 
