@@ -1,6 +1,5 @@
-Sure, here is the English translation of your resume:
 
-# Resume of Zhang Han
+# Zhang Han
 
 **Zhang Han | Male | Born in August 1994 | Bachelor's Degree | 5 years of work experience | Guangzhou**  
 **Education: Jinan University, Internet of Things Engineering, Full-time Bachelor, Bachelor of Engineering, September 2012 - June 2017**  
