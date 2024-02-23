@@ -1,6 +1,4 @@
-Sure, here is the English translation of your resume:
-
-# Resume of Zhang Han
+# Zhang Han
 
 **Zhang Han | Male | Born in August 1994 | Bachelor's Degree | 5 years of work experience | Guangzhou**  
 **Education: Jinan University, Internet of Things Engineering, Full-time Bachelor, Bachelor of Engineering, September 2012 - June 2017**  
@@ -85,12 +83,12 @@ Data Operation and Maintenance
 1. Data import and export.
 2. Oracle database operation and maintenance.
 
-## Other
+## Personal
 
-1. Easy-going, rich in hobbies, good at adjusting their state to better adapt to work.
+1. Easy-going, rich in hobbies, good at adjusting myself to better adapt to work.
 1. Like to be friends with people who have goals and abilities, and hope to work in a team with clear goals and positive progress.
-1. Love the IT industry, curious about emerging things, humble and studious.
-1. Can communicate effectively in work to achieve the purpose of communication as soon as possible.
+1. Have passion in the IT industry, curious about emerging things, humble and studious.
+1. Capable of communicating effectively in work to achieve the purpose of communication as soon as possible.
 1. Hobbies: Sports, music, painting, photography.
-Specialties: Swimming, basketball, football.
+Good at: Swimming, basketball, football.
 1. Participated in the IELTS test twice from May 2017 to December 2017, and the average scores of the two times were 6 and 7, respectively, and can proficiently read English documents. During the same period, I applied for and received pre-admission notices for master's courses from the University of Adelaide, the University of Sydney, and the University of Technology Sydney in Australia. Due to personal reasons, I did not continue the plan to study abroad.
